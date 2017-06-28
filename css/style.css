@@ -2670,6 +2670,9 @@ p.last_2{
   display: block;
   visibility: visible;
 }
+.borderless td, .borderless th {
+    border: none;
+}
 .label {
   font-weight: 300 !important;
 }
