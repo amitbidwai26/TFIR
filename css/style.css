@@ -64,6 +64,12 @@ label{
   margin:0;
 }
 
+h4{
+  color: black;
+}
+i{
+  font-style: italic !important;
+}
 /*-- header --*/
 /*-- top-strip --*/
 button.btn.btn-primary {
