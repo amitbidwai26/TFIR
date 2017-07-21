@@ -1679,6 +1679,9 @@ p.adam {
     margin-left: 15px;
     font-style: normal !important;
 }
+i.fa.fa-map-marker {
+    font-style: normal !important;
+}
 
 .footer.three ul li span {
     display: block;
