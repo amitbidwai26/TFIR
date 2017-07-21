@@ -84,14 +84,6 @@ i {
     font-style: italic !important;
 }
 
-fa fa-map-marker{
-  font-style: normal !important;
-
-}
-.no-italics {
-    font-style: normal !important;   
-}
-
 
 /*-- header --*/
 
@@ -1685,6 +1677,7 @@ p.adam {
     /* font-family: 'Roboto Condensed', sans-serif;*/
     float: left;
     margin-left: 15px;
+    font-style: normal !important;
 }
 
 .footer.three ul li span {
